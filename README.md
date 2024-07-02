@@ -10,15 +10,18 @@
 - [License](#license)
 
 ## Introduction
-ServiceSphere is a web application designed to streamline service management, providing a platform for efficient service listings, booking management, and user interactions. This system aids in managing service providers and clients, ensuring a smooth and user-friendly experience.
+ServiceSphere is a web application designed to facilitate booking various services, akin to platforms like Urban Company. It provides interfaces for users, admins, and service providers, allowing for seamless interaction and efficient service management.
 
 ## Features
-- **Service Listings**: Add, edit, and manage service listings.
-- **Booking Management**: Track and manage bookings and appointments.
-- **User Management**: Manage service providers and clients.
-- **User Authentication**: Secure login and registration for users.
-- **Admin Panel**: Manage users, services, and bookings.
-- **Real-Time Notifications**: Stay updated with real-time notifications about bookings and service updates.
+- **User Registration and Authentication**: Secure user registration and login via email or social media.
+- **Service Provider Application**: Allows individuals to apply as service providers by submitting necessary documentation and qualifications.
+- **Admin Module**:
+  - **Verification**: Admins can review and verify service provider applications.
+  - **Profile Management**: Admins can manage service provider profiles and handle suspensions or revocations.
+- **Service Request**:
+  - **Service Selection**: Users can browse and select from a variety of services.
+  - **Scheduling**: Users can schedule appointments; service providers can set availability.
+- **Real-time Tracking**: Users can track the status of their service requests in real time; service providers can update their status and location.
 
 ## Installation
 1. Clone the repository:
