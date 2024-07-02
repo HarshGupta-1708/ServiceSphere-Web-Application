@@ -54,27 +54,6 @@ ServiceSphere is a web application designed to facilitate booking various servic
 3. Register a new account or log in with your existing credentials.
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript ,React
 - **Backend**: Node.js, Express
-- **Database**: MySQL
-- **Templating Engine**: EJS
-
-## Contributing
-Contributions are welcome! Please follow these steps to contribute:
-1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-3. Commit your changes:
-    ```bash
-    git commit -m 'Add some feature'
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License.
+- **Database**: MONGOdb
