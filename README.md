@@ -6,8 +6,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 ServiceSphere is a web application designed to facilitate booking various services, akin to platforms like Urban Company. It provides interfaces for users, admins, and service providers, allowing for seamless interaction and efficient service management.
